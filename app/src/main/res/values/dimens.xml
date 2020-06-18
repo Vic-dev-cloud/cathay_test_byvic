@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="date_for_item_layout_marginStart">5dp</dimen>
+    <dimen name="date_for_item_layout_marginVertical">5dp</dimen>
+    <dimen name="date_for_item_textview_paddingBottom">5dp</dimen>
+    <dimen name="date_for_item_textview_marginBottom">1dp</dimen>
+
+    <dimen name="image_for_item_button_marginHorizontal">10dp</dimen>
+    <dimen name="image_for_item_button_marginBottom">10dp</dimen>
+
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+
+</resources>

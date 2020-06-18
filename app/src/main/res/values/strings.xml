@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cathay Test By Vic</string>
+    <string name="item_title">Item</string>
+    <string name="button_text">Switch to TAB2</string>
+    <string name="tab_one">TAB1</string>
+    <string name="tab_two">TAB2</string>
+</resources>
